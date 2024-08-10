@@ -27,3 +27,4 @@ This is a basic project to experiment with internationalization in Next.js using
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
+I used https://next-intl-docs.vercel.app/docs/getting-started/app-router/with-i18n-routing tutorial
