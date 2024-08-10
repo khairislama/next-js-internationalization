@@ -22,7 +22,7 @@ This is a basic project to experiment with internationalization in Next.js using
     ```
 
 ## Usage
-- Add your translation files under the `/locales` directory.
+- Add your translation files under the `/messages` directory.
 - Configure your translations in `next.config.js` and use the `useTranslations` hook in your components.
 
 ## License
