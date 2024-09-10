@@ -10,7 +10,7 @@ This is a basic project to experiment with internationalization in Next.js using
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/khairislama/your-repo-name.git
+    git clone https://github.com/khairislama/next-js-internationalization.git
     ```
 2. Install dependencies:
     ```bash
